@@ -19,11 +19,12 @@ This project demonstrates cloud-enabled deployment in action using AWS and Googl
 
 ## Project Work & Resources
 
-- [Project Video and Related Work](https://drive.google.com/file/d/1dBgG7cdAmzSqyYeh8aCSAxhutuAVeZXg/view?usp=sharing)  
+- [Project Video and Related Work](https://drive.google.com/file/d/1sAaQsAd1ra_F6vd4Sh1Ib3tdX_ElYkqn/view?usp=sharing)  
 
 ---
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE)
+
 
